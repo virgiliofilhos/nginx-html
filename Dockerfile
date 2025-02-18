@@ -1,3 +1,4 @@
+LABEL maintainer="vf <virgiliofilhos@gmail.com>"
 FROM nginx
 
 # Copy a configuration file from the current directory
