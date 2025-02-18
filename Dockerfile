@@ -1,5 +1,5 @@
-LABEL maintainer="vf <virgiliofilhos@gmail.com>"
 FROM nginx
+LABEL maintainer="vf <virgiliofilhos@gmail.com>"
 
 # Copy a configuration file from the current directory
 ADD nginx.conf /etc/nginx/
