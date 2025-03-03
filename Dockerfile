@@ -1,4 +1,5 @@
-FROM nginx
+FROM nginx:stable-alpine3.20-perl
+#FROM nginx
 LABEL maintainer="vf <virgiliofilhos@gmail.com>"
 
 # Copy a configuration file from the current directory
