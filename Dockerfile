@@ -1,4 +1,4 @@
-FROM nginx:stable-alpine3.20-perl
+FROM nginx:stable
 #FROM nginx
 LABEL maintainer="vf <virgiliofilhos@gmail.com>"
 
